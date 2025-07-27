@@ -6,8 +6,8 @@ This repository contains implementations of a lightweight face verification syst
 
 The main implementation file is **PerspectAI.Face_Verification-Copy1.ipynb**, which implements a complete face verification pipeline. Additionally, the repository contains supporting scripts:
 
-1. **FaceVerify_2DPCA_MLP.ipynb** (formerly Script_128-2.ipynb): A high-accuracy model trained on a dataset that generates 21,248 training pairs (10,624 positive pairs and 10,624 negative pairs).
-2. **FaceVerify_Enhanced_Ensemble.ipynb** (formerly Script_final_gen.ipynb): A more robust model trained on a larger dataset with advanced ensemble techniques.
+1. **FaceVerify_2DPCA_MLP.ipynb** : A high-accuracy model trained on a dataset that generates 21,248 training pairs (10,624 positive pairs and 10,624 negative pairs).
+2. **FaceVerify_Enhanced_Ensemble.ipynb** : A more robust model trained on a larger dataset with advanced ensemble techniques.
 
 All implementations follow similar workflows but differ in dataset size, feature extraction techniques, and classification methods.
 
